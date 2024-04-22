@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Game_Narde2/Demo/Tutorial.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Game_Narde2/Demo/Livello 1.unity
+    guid: 17573dcb5ab03264b82a2e8603aaa679
+  - enabled: 1
+    path: Assets/Game_Narde2/Demo/Livello 2.unity
+    guid: f3aa1bcb58fd43b47b58d9f8724b3803
+  - enabled: 1
+    path: Assets/Game_Narde2/Demo/Livello 3.unity
+    guid: efd0de82f99d82548b80dfc7b485153e
+  - enabled: 1
+    path: Assets/Game_Narde2/Demo/Schermata finale.unity
+    guid: 73c420a3ace49684dae5b603c04a33c5
+  m_configObjects: {}
